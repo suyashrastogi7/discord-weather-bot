@@ -1,5 +1,7 @@
 # DISCORD Weather BOT ( Using Discord.js API and OpenWeatherMap API)
 
+INVITE THE BOT : (Click Here!)[https://discord.com/api/oauth2/authorize?client_id=935667345614065684&scope=bot&permissions=1]
+
 ## COMMANDS :
 ```
 !weather <city_name>
