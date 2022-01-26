@@ -1,6 +1,6 @@
-#DISCORD Weather BOT ( Using Discord.js API and OpenWeatherMap API)
+# DISCORD Weather BOT ( Using Discord.js API and OpenWeatherMap API)
 
-##COMMANDS :
+## COMMANDS :
 ```
 !weather <city_name>
 ```
