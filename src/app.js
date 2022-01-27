@@ -52,7 +52,7 @@ client.on("messageCreate", async (message) => {
       return;
     }
   } else {
-    message.reply("Incorrect Syntax");
+    //message.reply("Incorrect Syntax");
     return;
   }
 });
